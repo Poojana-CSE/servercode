@@ -11,7 +11,7 @@ const cors = require('cors');
 const bcrypt = require('bcrypt'); 
 
 // Mongo DB URL
-const url = "mongodb://localhost:27017/";
+const url = "mongodb+srv://poojana_s:Poojana2212@poojana.frp42.mongodb.net/";
 
 // Database Name
 const db = 'MyBlog';
